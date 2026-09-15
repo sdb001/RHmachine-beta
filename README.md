@@ -1,6 +1,10 @@
-# 🛸 RHmachine — private beta 2.1.0-beta.1
+# 🛸 RHmachine — beta 2.1.0-beta.1
 
 Local market radar · Apple Silicon macOS · terminal interface
+
+[Download the compiled beta](https://github.com/sdb001/RHmachine-beta/releases/tag/v2.1.0-beta.1) · [AI-assisted setup instructions](https://github.com/sdb001/RHmachine-setup/blob/main/SETUP.md)
+
+Downloads are public; application source remains private. No GitHub invitation is required. Choose the named macOS archive, not GitHub's automatic “Source code” downloads, which contain only this repository's documentation.
 
 This is an unsigned test build. It has no Apple Developer ID signature or notarization. macOS may block it. If that happens, stop and report the message; these instructions do not disable Gatekeeper or remove quarantine protections.
 
@@ -36,6 +40,6 @@ Quit RHmachine before removing files. To uninstall, verify the launcher points t
 
 ## Scope
 
-The app's source repository is private. This download contains the executable and support resources, not a source checkout. Applicable third-party licences are retained under resources. This is a private evaluation build, not a public stable release or a guarantee of trading outcomes. No private signing module is included.
+The app's source repository is private. This download contains the executable and support resources, not a source checkout. Applicable third-party licences are retained under resources. This is an evaluation build, not a stable release or a guarantee of trading outcomes. No private signing module is included. The original archive and included documentation still call this a “private beta”; public download availability has changed, and its checksummed contents are unchanged.
 
 Report the app version, macOS version and the action that failed. Do not include API secrets, private keys or seed phrases in a bug report.
