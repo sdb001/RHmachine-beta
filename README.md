@@ -2,6 +2,8 @@
 
 Local market radar · Apple Silicon macOS · terminal interface
 
+📖 [Keyboard controls and shortcuts](https://github.com/sdb001/RHmachine-setup/blob/main/KEYBOARD.md)
+
 [Download the compiled beta](https://github.com/sdb001/RHmachine-beta/releases/tag/v2.1.0-beta.1) · [AI-assisted setup instructions](https://github.com/sdb001/RHmachine-setup/blob/main/SETUP.md)
 
 Downloads are public; application source remains private. No GitHub invitation is required. Choose the named macOS archive, not GitHub's automatic “Source code” downloads, which contain only this repository's documentation.
